@@ -25,9 +25,9 @@
 
 ## Official
 
-* [OpenTofu repository](https://github.com/opentofu/opentofu) ⭐ 29,856 | 🐛 327 | 🌐 Go | 📅 2026-08-21 🎉
-* [Weekly updates](https://github.com/opentofu/opentofu/discussions/categories/weekly-updates) ⭐ 29,856 | 🐛 327 | 🌐 Go | 📅 2026-08-21
-* [Registry](https://github.com/opentofu/registry) ⭐ 406 | 🐛 9 | 🌐 Go | 📅 2026-08-21
+* [OpenTofu repository](https://github.com/opentofu/opentofu) ⭐ 29,868 | 🐛 325 | 🌐 Go | 📅 2026-08-22 🎉
+* [Weekly updates](https://github.com/opentofu/opentofu/discussions/categories/weekly-updates) ⭐ 29,868 | 🐛 325 | 🌐 Go | 📅 2026-08-22
+* [Registry](https://github.com/opentofu/registry) ⭐ 406 | 🐛 9 | 🌐 Go | 📅 2026-08-22
 * [Registry MCP Server](https://github.com/opentofu/opentofu-mcp-server#opentofu-mcp-server) ⭐ 107 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-15
 * [Technical Steering Committee updates](https://github.com/opentofu/org/tree/main/TSC) ⭐ 4 | 🐛 10 | 📅 2026-08-04
 * [Fork announcement](https://opentofu.org/announcement)
@@ -67,7 +67,7 @@
 
 ### Environment managers
 
-* [arkade](https://github.com/alexellis/arkade) ⭐ 4,607 | 🐛 14 | 🌐 Go | 📅 2026-08-21 - CLI and Kubernetes app installer.
+* [arkade](https://github.com/alexellis/arkade) ⭐ 4,607 | 🐛 14 | 🌐 Go | 📅 2026-08-22 - CLI and Kubernetes app installer.
 * [tenv](https://github.com/tofuutils/tenv) ⭐ 1,430 | 🐛 45 | 🌐 Go | 📅 2026-08-20 - Terraform and OpenTofu version manager written in Go.
 * [tofuenv](https://github.com/tofuutils/tofuenv) ⭐ 235 | 🐛 21 | 🌐 Shell | 📅 2026-02-10 - OpenTofu version manager inspired by tfenv.
 * [asdf-opentofu](https://github.com/virtualroot/asdf-opentofu) ⭐ 31 | 🐛 3 | 🌐 Shell | 📅 2026-06-23 - OpenTofu plugin for asdf version manager.
@@ -77,12 +77,12 @@
 
 *Simplify your OpenTofu workflows with a thin wrapper.*
 
-* [Terragrunt](https://github.com/gruntwork-io/terragrunt) ⭐ 9,790 | 🐛 222 | 🌐 Go | 📅 2026-08-21 - Keep your configurations DRY, work with multiple modules, and manage remote state.
-* [Terramate](https://github.com/terramate-io/terramate) ⭐ 3,623 | 🐛 103 | 🌐 Go | 📅 2026-08-18 - Automation, orchestration, and code generation for OpenTofu, Terraform, Kubernetes, and others.
-* [Atmos](https://github.com/cloudposse/atmos) ⭐ 1,359 | 🐛 295 | 🌐 Go | 📅 2026-08-21 - Orchestration tool that keeps environment configuration DRY.
+* [Terragrunt](https://github.com/gruntwork-io/terragrunt) ⭐ 9,792 | 🐛 223 | 🌐 Go | 📅 2026-08-22 - Keep your configurations DRY, work with multiple modules, and manage remote state.
+* [Terramate](https://github.com/terramate-io/terramate) ⭐ 3,621 | 🐛 103 | 🌐 Go | 📅 2026-08-18 - Automation, orchestration, and code generation for OpenTofu, Terraform, Kubernetes, and others.
+* [Atmos](https://github.com/cloudposse/atmos) ⭐ 1,361 | 🐛 296 | 🌐 Go | 📅 2026-08-22 - Orchestration tool that keeps environment configuration DRY.
 * [pug](https://github.com/leg100/pug) ⭐ 693 | 🐛 21 | 🌐 Go | 📅 2026-01-02 - A terminal user interface for power users.
 * [tfwrapper](https://github.com/claranet/tfwrapper) ⭐ 155 | 🐛 9 | 🌐 Python | 📅 2026-08-21 - Python wrapper that simplifies OpenTofu usage and enforces best practices.
-* [tf](https://github.com/dex4er/tf) ⭐ 89 | 🐛 9 | 🌐 Go | 📅 2026-08-21 - Less verbose and more friendly command outputs.
+* [tf](https://github.com/dex4er/tf) ⭐ 89 | 🐛 9 | 🌐 Go | 📅 2026-08-22 - Less verbose and more friendly command outputs.
 * [easy\_infra](https://github.com/SeisoLLC/easy_infra) ⭐ 78 | 🐛 6 | 🌐 Python | 📅 2026-08-17 - Docker container to simplify and secure the use of infrastructure as code.
 * [tfam](https://github.com/Ant0wan/tfam) ⭐ 25 | 🐛 0 | 🌐 Rust | 📅 2025-03-06 - Rust-powered wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.
 * [tfexe](https://github.com/Ant0wan/tfexe) ⭐ 4 | 🐛 0 | 🌐 Shell | 📅 2023-11-03 - Rust-powered wrapper for seamless execution of tfswitch and Terraform/OpenTofu with version control.
@@ -101,7 +101,7 @@
 
 ### Tests
 
-* [Terratest](https://github.com/gruntwork-io/terratest) ⭐ 7,942 | 🐛 2 | 🌐 Go | 📅 2026-08-13 - Go library that makes writing automated tests for your infrastructure code easier.
+* [Terratest](https://github.com/gruntwork-io/terratest) ⭐ 7,943 | 🐛 2 | 🌐 Go | 📅 2026-08-13 - Go library that makes writing automated tests for your infrastructure code easier.
 
 ### State
 
@@ -121,8 +121,8 @@
 *Alternatives to Terraform Cloud.*
 
 * [digger](https://github.com/diggerhq/digger) ⭐ 5,027 | 🐛 479 | 🌐 Go | 📅 2026-08-11 - Open-source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline.
-* [Terrateam](https://github.com/terrateamio/terrateam) ⭐ 1,266 | 🐛 105 | 🌐 OCaml | 📅 2026-08-21 - Open-source alternative to Terraform Cloud/Enterprise. GitOps-first and built for scale, security, and reliability across modern VCS providers.
-* [terrakube](https://github.com/AzBuilder/terrakube) ⭐ 946 | 🐛 108 | 🌐 Java | 📅 2026-08-21 - Open-source platform with a private registry, remote state, custom flows, scheduled workspaces, and visual states.
+* [Terrateam](https://github.com/terrateamio/terrateam) ⭐ 1,267 | 🐛 104 | 🌐 OCaml | 📅 2026-08-22 - Open-source alternative to Terraform Cloud/Enterprise. GitOps-first and built for scale, security, and reliability across modern VCS providers.
+* [terrakube](https://github.com/AzBuilder/terrakube) ⭐ 947 | 🐛 109 | 🌐 Java | 📅 2026-08-22 - Open-source platform with a private registry, remote state, custom flows, scheduled workspaces, and visual states.
 * [tofutf](https://github.com/tofutf/tofutf) ⭐ 84 | 🐛 37 | 🌐 Go | 📅 2024-12-13 - Open-source alternative to Terraform Enterprise with SSO, team management, agents, etc.
 * [Stategraph](https://stategraph.com) - State backend that eliminates the state file bottleneck. Teams plan in parallel with resource-level locking, and state is queryable via SQL.
 * [Terramantle](https://terramantle.dev) - Free hosted module, state backend and private registry that maps module and provider dependencies and surfaces security, drift, and usage insights across your workspaces.
@@ -132,7 +132,7 @@
 * [citizen](https://github.com/outsideris/citizen) ⭐ 654 | 🐛 44 | 🌐 JavaScript | 📅 2024-10-12 - Private registry for modules and providers with support for multiple databases and storages.
 * [terralist](https://github.com/terralist/terralist) ⭐ 513 | 🐛 22 | 🌐 Go | 📅 2026-08-21 - Private registry for providers and modules.
 * [terrareg](https://github.com/MatthewJohn/terrareg) ⭐ 347 | 🐛 20 | 🌐 Go | 📅 2026-05-11 - Open-source modules registry with UI, optional Git integration and deep analysis.
-* [boring-registry](https://github.com/boring-registry/boring-registry) ⭐ 291 | 🐛 27 | 🌐 Go | 📅 2026-08-14 - An open-source module and provider registry compatible with OpenTofu.
+* [boring-registry](https://github.com/boring-registry/boring-registry) ⭐ 291 | 🐛 27 | 🌐 Go | 📅 2026-08-22 - An open-source module and provider registry compatible with OpenTofu.
 * [tapir](https://github.com/PacoVK/tapir) ⭐ 239 | 🐛 33 | 🌐 Java | 📅 2026-08-14 - Private registry for modules and providers with a UI.
 * [terraform-registry](https://github.com/nrkno/terraform-registry) ⭐ 118 | 🐛 17 | 🌐 Go | 📅 2026-08-21 - Modules registry with authentication and support for multiple backends.
 * [terustry](https://github.com/veepee-oss/terustry) ⭐ 73 | 🐛 0 | 🌐 Rust | 📅 2024-08-13 - Proxy registry for providers.
@@ -186,4 +186,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
