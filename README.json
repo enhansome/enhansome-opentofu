@@ -12,10 +12,10 @@
             "archived": false,
             "id": 679421146,
             "language": "Go",
-            "last_commit": "2026-08-24T12:44:55Z",
+            "last_commit": "2026-08-24T15:07:00Z",
             "owner": "opentofu",
             "repo": "opentofu",
-            "stars": 29896
+            "stars": 29900
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 679421146,
             "language": "Go",
-            "last_commit": "2026-08-24T12:44:55Z",
+            "last_commit": "2026-08-24T15:07:00Z",
             "owner": "opentofu",
             "repo": "opentofu",
-            "stars": 29896
+            "stars": 29900
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 716710248,
             "language": "Go",
-            "last_commit": "2026-08-24T14:23:09Z",
+            "last_commit": "2026-08-24T21:22:44Z",
             "owner": "opentofu",
             "repo": "registry",
             "stars": 406
@@ -177,7 +177,7 @@
                 "archived": false,
                 "id": 59522149,
                 "language": "Go",
-                "last_commit": "2026-08-24T14:17:36Z",
+                "last_commit": "2026-08-24T17:12:45Z",
                 "owner": "gruntwork-io",
                 "repo": "terragrunt",
                 "stars": 9799
@@ -207,7 +207,7 @@
                 "archived": false,
                 "id": 292427680,
                 "language": "Go",
-                "last_commit": "2026-08-24T14:23:28Z",
+                "last_commit": "2026-08-24T21:24:48Z",
                 "owner": "cloudposse",
                 "repo": "atmos",
                 "stars": 1361
@@ -527,7 +527,7 @@
                 "archived": false,
                 "id": 866997913,
                 "language": "OCaml",
-                "last_commit": "2026-08-24T14:21:55Z",
+                "last_commit": "2026-08-24T19:37:14Z",
                 "owner": "stategraph",
                 "repo": "stategraph",
                 "stars": 1268
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:32:50.338Z",
+    "last_updated": "2026-08-24T21:41:20.317Z",
     "original_repository": "virtualroot/awesome-opentofu",
     "original_repository_id": 684048748,
     "original_repository_sha": "1c7694cf2f5bbf92e39bb5796756d1691c0b1124",
