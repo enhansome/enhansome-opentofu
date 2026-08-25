@@ -12,10 +12,10 @@
             "archived": false,
             "id": 679421146,
             "language": "Go",
-            "last_commit": "2026-08-24T15:07:00Z",
+            "last_commit": "2026-08-25T20:33:35Z",
             "owner": "opentofu",
             "repo": "opentofu",
-            "stars": 29903
+            "stars": 29913
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 679421146,
             "language": "Go",
-            "last_commit": "2026-08-24T15:07:00Z",
+            "last_commit": "2026-08-25T20:33:35Z",
             "owner": "opentofu",
             "repo": "opentofu",
-            "stars": 29903
+            "stars": 29913
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 716710248,
             "language": "Go",
-            "last_commit": "2026-08-25T06:23:50Z",
+            "last_commit": "2026-08-25T21:23:15Z",
             "owner": "opentofu",
             "repo": "registry",
             "stars": 406
@@ -177,10 +177,10 @@
                 "archived": false,
                 "id": 59522149,
                 "language": "Go",
-                "last_commit": "2026-08-24T17:12:45Z",
+                "last_commit": "2026-08-25T21:37:18Z",
                 "owner": "gruntwork-io",
                 "repo": "terragrunt",
-                "stars": 9800
+                "stars": 9805
               }
             },
             {
@@ -195,7 +195,7 @@
                 "last_commit": "2026-08-18T12:54:16Z",
                 "owner": "terramate-io",
                 "repo": "terramate",
-                "stars": 3621
+                "stars": 3622
               }
             },
             {
@@ -207,7 +207,7 @@
                 "archived": false,
                 "id": 292427680,
                 "language": "Go",
-                "last_commit": "2026-08-25T06:19:35Z",
+                "last_commit": "2026-08-25T21:39:47Z",
                 "owner": "cloudposse",
                 "repo": "atmos",
                 "stars": 1362
@@ -252,7 +252,7 @@
                 "archived": false,
                 "id": 527537343,
                 "language": "Go",
-                "last_commit": "2026-08-25T04:51:45Z",
+                "last_commit": "2026-08-25T17:55:19Z",
                 "owner": "dex4er",
                 "repo": "tf",
                 "stars": 88
@@ -322,7 +322,7 @@
                 "last_commit": "2026-08-24T05:13:37Z",
                 "owner": "flux-iac",
                 "repo": "tofu-controller",
-                "stars": 1684
+                "stars": 1686
               }
             },
             {
@@ -527,7 +527,7 @@
                 "archived": false,
                 "id": 866997913,
                 "language": "OCaml",
-                "last_commit": "2026-08-24T19:37:14Z",
+                "last_commit": "2026-08-25T15:59:01Z",
                 "owner": "stategraph",
                 "repo": "stategraph",
                 "stars": 1268
@@ -542,7 +542,7 @@
                 "archived": false,
                 "id": 349578094,
                 "language": "Java",
-                "last_commit": "2026-08-24T23:08:31Z",
+                "last_commit": "2026-08-25T17:39:46Z",
                 "owner": "terrakube-io",
                 "repo": "terrakube",
                 "stars": 947
@@ -769,7 +769,7 @@
                 "last_commit": "2026-07-15T07:42:43Z",
                 "owner": "minamijoyo",
                 "repo": "tfupdate",
-                "stars": 657
+                "stars": 658
               }
             },
             {
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:25:19.450Z",
+    "last_updated": "2026-08-25T21:40:20.324Z",
     "original_repository": "virtualroot/awesome-opentofu",
     "original_repository_id": 684048748,
     "original_repository_sha": "1c7694cf2f5bbf92e39bb5796756d1691c0b1124",
