@@ -12,11 +12,12 @@
             "archived": false,
             "id": 679421146,
             "language": "Go",
-            "last_commit": "2026-08-27T11:17:59Z",
+            "last_commit": "2026-08-28T00:41:15Z",
             "owner": "opentofu",
             "repo": "opentofu",
-            "stars": 29945
-          }
+            "stars": 29952
+          },
+          "first_seen": "2026-08-28T05:21:09.732Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 679421146,
             "language": "Go",
-            "last_commit": "2026-08-27T11:17:59Z",
+            "last_commit": "2026-08-28T00:41:15Z",
             "owner": "opentofu",
             "repo": "opentofu",
-            "stars": 29945
-          }
+            "stars": 29952
+          },
+          "first_seen": "2026-08-28T05:21:09.732Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 716710248,
             "language": "Go",
-            "last_commit": "2026-08-27T10:01:45Z",
+            "last_commit": "2026-08-28T03:24:11Z",
             "owner": "opentofu",
             "repo": "registry",
             "stars": 407
-          }
+          },
+          "first_seen": "2026-08-28T05:21:09.732Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "opentofu",
             "repo": "opentofu-mcp-server",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T05:21:09.732Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "opentofu",
             "repo": "org",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T05:21:09.732Z"
         }
       ],
       "title": "Official"
@@ -99,7 +104,8 @@
                 "owner": "alexellis",
                 "repo": "arkade",
                 "stars": 4608
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "tofuutils",
                 "repo": "tenv",
                 "stars": 1429
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -129,7 +136,8 @@
                 "owner": "tofuutils",
                 "repo": "tofuenv",
                 "stars": 235
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -144,7 +152,8 @@
                 "owner": "virtualroot",
                 "repo": "asdf-opentofu",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -159,7 +168,8 @@
                 "owner": "ASleepyCat",
                 "repo": "tfswitcher",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             }
           ],
           "description": null,
@@ -177,11 +187,12 @@
                 "archived": false,
                 "id": 59522149,
                 "language": "Go",
-                "last_commit": "2026-08-26T21:38:21Z",
+                "last_commit": "2026-08-27T23:07:35Z",
                 "owner": "gruntwork-io",
                 "repo": "terragrunt",
-                "stars": 9809
-              }
+                "stars": 9810
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -192,11 +203,12 @@
                 "archived": false,
                 "id": 411630635,
                 "language": "Go",
-                "last_commit": "2026-08-27T10:13:57Z",
+                "last_commit": "2026-08-27T14:36:27Z",
                 "owner": "terramate-io",
                 "repo": "terramate",
                 "stars": 3621
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -207,11 +219,12 @@
                 "archived": false,
                 "id": 292427680,
                 "language": "Go",
-                "last_commit": "2026-08-27T11:50:22Z",
+                "last_commit": "2026-08-28T04:00:32Z",
                 "owner": "cloudposse",
                 "repo": "atmos",
-                "stars": 1361
-              }
+                "stars": 1363
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -226,7 +239,8 @@
                 "owner": "leg100",
                 "repo": "pug",
                 "stars": 695
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -241,7 +255,8 @@
                 "owner": "claranet",
                 "repo": "tfwrapper",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -252,11 +267,12 @@
                 "archived": false,
                 "id": 527537343,
                 "language": "Go",
-                "last_commit": "2026-08-27T06:56:29Z",
+                "last_commit": "2026-08-27T22:57:53Z",
                 "owner": "dex4er",
                 "repo": "tf",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -271,7 +287,8 @@
                 "owner": "SeisoLLC",
                 "repo": "easy_infra",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -286,7 +303,8 @@
                 "owner": "Ant0wan",
                 "repo": "tfam",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -301,7 +319,8 @@
                 "owner": "Ant0wan",
                 "repo": "tfexe",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             }
           ],
           "description": "Simplify your OpenTofu workflows with a thin wrapper.",
@@ -323,7 +342,8 @@
                 "owner": "flux-iac",
                 "repo": "tofu-controller",
                 "stars": 1686
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -338,7 +358,8 @@
                 "owner": "dflook",
                 "repo": "terraform-github-actions",
                 "stars": 979
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -349,11 +370,12 @@
                 "archived": false,
                 "id": 598365601,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T04:24:32Z",
+                "last_commit": "2026-08-27T14:11:10Z",
                 "owner": "OP5dev",
                 "repo": "TF-via-PR",
                 "stars": 338
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -368,7 +390,8 @@
                 "owner": "opentofu",
                 "repo": "setup-opentofu",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -383,7 +406,8 @@
                 "owner": "tofuutils",
                 "repo": "pre-commit-opentofu",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -398,7 +422,8 @@
                 "owner": "drifthoundhq",
                 "repo": "drifthound",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -413,7 +438,8 @@
                 "owner": "65156",
                 "repo": "tofUI",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             }
           ],
           "description": null,
@@ -435,7 +461,8 @@
                 "owner": "gruntwork-io",
                 "repo": "terratest",
                 "stars": 7943
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             }
           ],
           "description": null,
@@ -457,7 +484,8 @@
                 "owner": "minamijoyo",
                 "repo": "tfmigrate",
                 "stars": 1278
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -472,7 +500,8 @@
                 "owner": "coolapso",
                 "repo": "tfimport",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             }
           ],
           "description": "Analyze and manipulate OpenTofu's state.",
@@ -494,7 +523,8 @@
                 "owner": "minamijoyo",
                 "repo": "tfschema",
                 "stars": 314
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             }
           ],
           "description": "Inspect and interact with OpenTofu providers.",
@@ -515,8 +545,9 @@
                 "last_commit": "2026-08-11T18:59:55Z",
                 "owner": "diggerhq",
                 "repo": "digger",
-                "stars": 5032
-              }
+                "stars": 5033
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -527,11 +558,12 @@
                 "archived": false,
                 "id": 866997913,
                 "language": "OCaml",
-                "last_commit": "2026-08-27T11:34:41Z",
+                "last_commit": "2026-08-27T21:12:15Z",
                 "owner": "stategraph",
                 "repo": "stategraph",
                 "stars": 1269
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -542,11 +574,12 @@
                 "archived": false,
                 "id": 349578094,
                 "language": "Java",
-                "last_commit": "2026-08-26T02:11:05Z",
+                "last_commit": "2026-08-28T00:48:06Z",
                 "owner": "terrakube-io",
                 "repo": "terrakube",
                 "stars": 952
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -561,7 +594,8 @@
                 "owner": "tofutf",
                 "repo": "tofutf",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             }
           ],
           "description": "Alternatives to Terraform Cloud.",
@@ -583,7 +617,8 @@
                 "owner": "outsideris",
                 "repo": "citizen",
                 "stars": 654
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -597,8 +632,9 @@
                 "last_commit": "2026-08-26T10:45:20Z",
                 "owner": "terralist",
                 "repo": "terralist",
-                "stars": 513
-              }
+                "stars": 514
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -613,7 +649,8 @@
                 "owner": "MatthewJohn",
                 "repo": "terrareg",
                 "stars": 347
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -624,11 +661,12 @@
                 "archived": false,
                 "id": 315339738,
                 "language": "Go",
-                "last_commit": "2026-08-27T00:07:58Z",
+                "last_commit": "2026-08-27T23:47:58Z",
                 "owner": "boring-registry",
                 "repo": "boring-registry",
                 "stars": 291
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -639,11 +677,12 @@
                 "archived": false,
                 "id": 569890667,
                 "language": "Java",
-                "last_commit": "2026-08-26T11:08:17Z",
+                "last_commit": "2026-08-27T16:44:01Z",
                 "owner": "PacoVK",
                 "repo": "tapir",
                 "stars": 239
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -658,7 +697,8 @@
                 "owner": "nrkno",
                 "repo": "terraform-registry",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -673,7 +713,8 @@
                 "owner": "veepee-oss",
                 "repo": "terustry",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -688,7 +729,8 @@
                 "owner": "seal-io",
                 "repo": "hermitcrab",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -703,7 +745,8 @@
                 "owner": "devoteamgcloud",
                 "repo": "petra",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -718,7 +761,8 @@
                 "owner": "haoliangyu",
                 "repo": "terrac",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -733,7 +777,8 @@
                 "owner": "djetelina",
                 "repo": "tofuref",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             }
           ],
           "description": null,
@@ -755,7 +800,8 @@
                 "owner": "env0",
                 "repo": "terratag",
                 "stars": 1055
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -770,7 +816,8 @@
                 "owner": "minamijoyo",
                 "repo": "tfupdate",
                 "stars": 657
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -785,7 +832,8 @@
                 "owner": "opentofu",
                 "repo": "tofu-ls",
                 "stars": 184
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             },
             {
               "node_type": "item",
@@ -800,7 +848,8 @@
                 "owner": "ashpool37",
                 "repo": "zed-extension-opentofu",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T05:21:09.732Z"
             }
           ],
           "description": null,
@@ -812,7 +861,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:54:50.037Z",
+    "last_updated": "2026-08-28T05:21:09.732Z",
     "original_repository_info": {
       "archived": false,
       "id": 684048748,
