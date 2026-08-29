@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+            "homepage": "https://opentofu.org",
             "id": 679421146,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-28T17:54:16Z",
+            "open_issues": 322,
             "owner": "opentofu",
             "repo": "opentofu",
-            "stars": 29957
+            "stars": 29957,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:09.732Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenTofu lets you declaratively manage your cloud infrastructure.",
+            "homepage": "https://opentofu.org",
             "id": 679421146,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-28T17:54:16Z",
+            "open_issues": 322,
             "owner": "opentofu",
             "repo": "opentofu",
-            "stars": 29957
+            "stars": 29957,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:09.732Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Metadata and tooling for the OpenTofu registry",
+            "homepage": "https://search.opentofu.org",
             "id": 716710248,
             "language": "Go",
-            "last_commit": "2026-08-29T02:35:27Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:33:02Z",
+            "open_issues": 110,
             "owner": "opentofu",
             "repo": "registry",
-            "stars": 407
+            "stars": 407,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:09.732Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenTofu MCP Server for accessing the OpenTofu Registry",
+            "homepage": null,
             "id": 988291134,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-15T12:43:06Z",
+            "open_issues": 0,
             "owner": "opentofu",
             "repo": "opentofu-mcp-server",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:09.732Z"
         },
@@ -74,12 +94,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A central repository for the Opentofu organization governance, processes, metadata, permissions, membership, etc.",
+            "homepage": null,
             "id": 1007886763,
             "language": null,
+            "license": "MPL-2.0",
             "last_commit": "2026-08-04T16:05:45Z",
+            "open_issues": 10,
             "owner": "opentofu",
             "repo": "org",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:09.732Z"
         }
@@ -98,12 +123,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Marketplace For Developer Tools",
+                "homepage": "https://blog.alexellis.io/kubernetes-marketplace-two-year-update/",
                 "id": 243213207,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:22:46Z",
+                "open_issues": 15,
                 "owner": "alexellis",
                 "repo": "arkade",
-                "stars": 4608
+                "stars": 4608,
+                "topics": [
+                  "apps",
+                  "arkade",
+                  "automation",
+                  "cert-manager",
+                  "cka",
+                  "ckad",
+                  "cli",
+                  "devops",
+                  "hacktoberfest",
+                  "helm",
+                  "inlets",
+                  "istio",
+                  "k3s",
+                  "k8s",
+                  "kubernetes",
+                  "learning",
+                  "nginx",
+                  "openfaas",
+                  "oss"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -114,12 +164,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenTofu / Terraform / Terragrunt / Terramate and Atmos version manager",
+                "homepage": "https://tofuutils.github.io/tenv/",
                 "id": 739378779,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T09:46:49Z",
+                "open_issues": 45,
                 "owner": "tofuutils",
                 "repo": "tenv",
-                "stars": 1429
+                "stars": 1429,
+                "topics": [
+                  "go",
+                  "hacktoberfest",
+                  "hacktoberfest2024",
+                  "hacktoberfest2025",
+                  "hashicorp",
+                  "hashicorp-terraform",
+                  "iac",
+                  "opentofu",
+                  "tenv",
+                  "terraform",
+                  "tfenv",
+                  "tofu",
+                  "tofuenv",
+                  "up-for-grabs"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -130,12 +200,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenTofu version manager",
+                "homepage": "https://tofuutils.github.io/tofuenv/",
                 "id": 736036811,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-02-10T00:33:55Z",
+                "open_issues": 21,
                 "owner": "tofuutils",
                 "repo": "tofuenv",
-                "stars": 235
+                "stars": 235,
+                "topics": [
+                  "bash",
+                  "hacktoberfest",
+                  "hacktoberfest2024",
+                  "hacktoberfest2025",
+                  "hashicorp",
+                  "hashicorp-terraform",
+                  "iac",
+                  "opentofu",
+                  "tenv",
+                  "terraform",
+                  "tfenv",
+                  "tofuenv"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -146,12 +234,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official asdf plugin for opentofu",
+                "homepage": null,
                 "id": 700384059,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:59:57Z",
+                "open_issues": 4,
                 "owner": "virtualroot",
                 "repo": "asdf-opentofu",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "asdf-plugin",
+                  "command-line",
+                  "linux",
+                  "macos",
+                  "opentofu",
+                  "tofu"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -162,12 +262,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terraform and OpenTofu version switcher written in Rust",
+                "homepage": null,
                 "id": 632345401,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-05-26T05:30:50Z",
+                "open_issues": 5,
                 "owner": "ASleepyCat",
                 "repo": "tfswitcher",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             }
@@ -185,12 +290,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+                "homepage": "https://terragrunt.com",
                 "id": 59522149,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T20:13:42Z",
+                "open_issues": 216,
                 "owner": "gruntwork-io",
                 "repo": "terragrunt",
-                "stars": 9809
+                "stars": 9809,
+                "topics": [
+                  "aws",
+                  "cli",
+                  "developer-tools",
+                  "devops",
+                  "opentofu",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -201,12 +318,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source Infrastructure as Code (IaC) orchestration platform: GitOps workflows, orchestration, code generation, observability, drift detection, asset management, policies, Slack notifications, and more. Integrates with Terraform, OpenTofu, Terragrunt, Kubernetes, GitHub Actions, GitLab CI/CD, BitBucket Pipelines, and any other CI/CD platform.",
+                "homepage": "https://terramate.io",
                 "id": 411630635,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-27T14:36:27Z",
+                "open_issues": 103,
                 "owner": "terramate-io",
                 "repo": "terramate",
-                "stars": 3620
+                "stars": 3620,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -217,12 +339,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Atmos is the open-source runtime for infrastructure — it builds, authenticates, and ships Terraform, OpenTofu, Kubernetes, Helm, and containers the same way on your laptop, in CI, and with AI agents.",
+                "homepage": "https://atmos.tools",
                 "id": 292427680,
                 "language": "Go",
-                "last_commit": "2026-08-29T01:24:41Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:57:27Z",
+                "open_issues": 300,
                 "owner": "cloudposse",
                 "repo": "atmos",
-                "stars": 1362
+                "stars": 1362,
+                "topics": [
+                  "automation",
+                  "cli",
+                  "cloud",
+                  "devops",
+                  "hcl2",
+                  "helm",
+                  "helmfile",
+                  "orchestration",
+                  "terraform",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -233,12 +371,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Drive terraform at terminal velocity.",
+                "homepage": null,
                 "id": 739703271,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2026-01-02T11:17:40Z",
+                "open_issues": 21,
                 "owner": "leg100",
                 "repo": "pug",
-                "stars": 695
+                "stars": 695,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -249,12 +392,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claranet France Terraform & OpenTofu Wrapper",
+                "homepage": null,
                 "id": 107096882,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-21T20:15:41Z",
+                "open_issues": 9,
                 "owner": "claranet",
                 "repo": "tfwrapper",
-                "stars": 155
+                "stars": 155,
+                "topics": [
+                  "claranet",
+                  "opentofu",
+                  "python",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -265,12 +418,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Less verbose and more shell friendly Terraform",
+                "homepage": null,
                 "id": 527537343,
                 "language": "Go",
-                "last_commit": "2026-08-28T07:05:39Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:42:13Z",
+                "open_issues": 13,
                 "owner": "dex4er",
                 "repo": "tf",
-                "stars": 88
+                "stars": 88,
+                "topics": [
+                  "cloud",
+                  "devops",
+                  "golang",
+                  "hacktoberfest",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -281,12 +445,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A docker container to simplify and secure the use of Infrastructure as Code (IaC)",
+                "homepage": "https://seisollc.com",
                 "id": 265361112,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T06:28:45Z",
+                "open_issues": 6,
                 "owner": "SeisoLLC",
                 "repo": "easy_infra",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "aws",
+                  "azure",
+                  "cloud",
+                  "docker",
+                  "docker-container",
+                  "docker-image",
+                  "iac",
+                  "infrastructure",
+                  "infrastructure-as-code",
+                  "security",
+                  "seiso"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -297,12 +478,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Rust-based wrapper for concurrent Terraform apply, enabling multi-deployment support.",
+                "homepage": null,
                 "id": 630655960,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2025-03-06T14:47:13Z",
+                "open_issues": 0,
                 "owner": "Ant0wan",
                 "repo": "tfam",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "terraform",
+                  "tfswitch",
+                  "tofu"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -313,12 +503,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust-powered wrapper for seamless execution of tfswitch and Terraform with version control. ",
+                "homepage": null,
                 "id": 630520675,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2023-11-03T15:50:59Z",
+                "open_issues": 0,
                 "owner": "Ant0wan",
                 "repo": "tfexe",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "terraform",
+                  "tfswitch",
+                  "tofu"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             }
@@ -336,12 +535,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A GitOps OpenTofu and Terraform controller for Flux",
+                "homepage": "https://flux-iac.github.io/tofu-controller/",
                 "id": 440496898,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T05:13:37Z",
+                "open_issues": 154,
                 "owner": "flux-iac",
                 "repo": "tofu-controller",
-                "stars": 1686
+                "stars": 1686,
+                "topics": [
+                  "flux",
+                  "fluxcd",
+                  "gitops",
+                  "kubernetes",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -352,12 +562,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitHub actions for Terraform and OpenTofu",
+                "homepage": null,
                 "id": 277407719,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-19T20:51:25Z",
+                "open_issues": 27,
                 "owner": "dflook",
                 "repo": "terraform-github-actions",
-                "stars": 979
+                "stars": 979,
+                "topics": [
+                  "github-action",
+                  "github-actions",
+                  "hacktoberfest",
+                  "opentofu",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -368,12 +589,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.",
+                "homepage": null,
                 "id": 598365601,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T14:11:10Z",
+                "open_issues": 16,
                 "owner": "OP5dev",
                 "repo": "TF-via-PR",
-                "stars": 338
+                "stars": 338,
+                "topics": [
+                  "automation",
+                  "aws",
+                  "cicd-pipeline",
+                  "devops",
+                  "github-actions",
+                  "infrastructure-as-code",
+                  "opentofu",
+                  "platform-engineering",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -384,12 +620,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://opentofu.org",
                 "id": 696284666,
                 "language": "JavaScript",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-25T05:51:54Z",
+                "open_issues": 8,
                 "owner": "opentofu",
                 "repo": "setup-opentofu",
-                "stars": 169
+                "stars": 169,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -400,12 +641,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pre-commit git hooks to take care of OpenTofu configurations",
+                "homepage": null,
                 "id": 744203551,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-02T02:47:15Z",
+                "open_issues": 4,
                 "owner": "tofuutils",
                 "repo": "pre-commit-opentofu",
-                "stars": 100
+                "stars": 100,
+                "topics": [
+                  "hacktoberfest",
+                  "hacktoberfest2024",
+                  "hacktoberfest2025",
+                  "hashicorp",
+                  "hashicorp-terraform",
+                  "opentofu",
+                  "terraform",
+                  "tofu"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -416,12 +671,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Continuous infrastructure drift detection with historical tracking and notifications.",
+                "homepage": "https://drifthound.io",
                 "id": 1105172804,
                 "language": "Ruby",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-04-23T09:36:03Z",
+                "open_issues": 16,
                 "owner": "drifthoundhq",
                 "repo": "drifthound",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "drift-detection",
+                  "iac",
+                  "opentofu",
+                  "terraform",
+                  "terragrunt"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -432,12 +698,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Better OpenTofu & Terraform Plans",
+                "homepage": null,
                 "id": 1075048993,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-14T22:13:13Z",
+                "open_issues": 0,
                 "owner": "65156",
                 "repo": "tofUI",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             }
@@ -455,12 +726,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.",
+                "homepage": "https://terratest.gruntwork.io/",
                 "id": 53174289,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T03:18:57Z",
+                "open_issues": 2,
                 "owner": "gruntwork-io",
                 "repo": "terratest",
-                "stars": 7944
+                "stars": 7944,
+                "topics": [
+                  "aws",
+                  "devops",
+                  "docker",
+                  "golang",
+                  "packer",
+                  "terraform",
+                  "testing",
+                  "testing-library"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             }
@@ -478,12 +763,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Terraform / OpenTofu state migration tool for GitOps",
+                "homepage": null,
                 "id": 275169025,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-05-04T13:10:37Z",
+                "open_issues": 23,
                 "owner": "minamijoyo",
                 "repo": "tfmigrate",
-                "stars": 1278
+                "stars": 1278,
+                "topics": [
+                  "gitops",
+                  "go",
+                  "opentofu",
+                  "terraform",
+                  "tfstate"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -494,12 +790,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically import infrastructure to tfstate",
+                "homepage": "https://tfimport.coolapso.sh",
                 "id": 1232096434,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-02T10:53:29Z",
+                "open_issues": 0,
                 "owner": "coolapso",
                 "repo": "tfimport",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "automation",
+                  "cli",
+                  "iac",
+                  "opentofu",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             }
@@ -517,12 +824,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A schema inspector for Terraform / OpenTofu providers",
+                "homepage": null,
                 "id": 117117824,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-05-04T12:58:20Z",
+                "open_issues": 4,
                 "owner": "minamijoyo",
                 "repo": "tfschema",
-                "stars": 314
+                "stars": 314,
+                "topics": [
+                  "go",
+                  "opentofu",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             }
@@ -540,12 +856,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️  ",
+                "homepage": "https://digger.dev",
                 "id": 605995490,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-11T18:59:55Z",
+                "open_issues": 481,
                 "owner": "diggerhq",
                 "repo": "digger",
-                "stars": 5032
+                "stars": 5032,
+                "topics": [
+                  "github-actions",
+                  "hacktoberfest",
+                  "infrastructure-as-code",
+                  "tacos",
+                  "terraform",
+                  "terraform-aws",
+                  "terraform-gcp",
+                  "terraform-github-actions",
+                  "terraformcloud"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -556,12 +887,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terraform without the state file bottleneck",
+                "homepage": "https://stategraph.com",
                 "id": 866997913,
                 "language": "OCaml",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-28T15:23:10Z",
+                "open_issues": 107,
                 "owner": "stategraph",
                 "repo": "stategraph",
-                "stars": 1269
+                "stars": 1269,
+                "topics": [
+                  "automation",
+                  "cloud-management",
+                  "devops",
+                  "github-actions",
+                  "infrastructure-as-code",
+                  "infrastructure-automation",
+                  "infrastructure-orchestration",
+                  "ocaml",
+                  "opentofu",
+                  "pulumi",
+                  "tacos",
+                  "terraform",
+                  "terraform-github-actions"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -572,12 +922,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source IaC Automation and Collaboration Software.",
+                "homepage": "https://docs.terrakube.io",
                 "id": 349578094,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T23:26:30Z",
+                "open_issues": 118,
                 "owner": "terrakube-io",
                 "repo": "terrakube",
-                "stars": 952
+                "stars": 952,
+                "topics": [
+                  "elide",
+                  "kubernetes",
+                  "opentofu",
+                  "spring-boot",
+                  "terraform",
+                  "terraform-cloud",
+                  "terraform-enterprise",
+                  "terraform-registry"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -588,12 +952,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source alternative to terraform enterprise.",
+                "homepage": "https://docs.tofutf.io",
                 "id": 739126989,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2024-12-13T04:42:12Z",
+                "open_issues": 37,
                 "owner": "tofutf",
                 "repo": "tofutf",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "golang",
+                  "helm",
+                  "htmx",
+                  "kubernetes",
+                  "opentofu",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             }
@@ -611,12 +987,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Private Terraform Module/Provider Registry",
+                "homepage": null,
                 "id": 111411206,
                 "language": "JavaScript",
+                "license": "MPL-2.0",
                 "last_commit": "2024-10-12T20:14:31Z",
+                "open_issues": 44,
                 "owner": "outsideris",
                 "repo": "citizen",
-                "stars": 654
+                "stars": 654,
+                "topics": [
+                  "registry",
+                  "terraform",
+                  "terraform-module",
+                  "terraform-provider"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -627,12 +1013,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terraform Private Registry for modules and providers manageable from a REST API",
+                "homepage": "http://www.terralist.io/",
                 "id": 443985581,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-29T00:59:43Z",
+                "open_issues": 16,
                 "owner": "terralist",
                 "repo": "terralist",
-                "stars": 515
+                "stars": 515,
+                "topics": [
+                  "private-registry",
+                  "registry",
+                  "terraform",
+                  "terraform-login",
+                  "terraform-module",
+                  "terraform-provider"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -643,12 +1041,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source Terraform module registry with UI, optional Git integration and deep analysis. Demo: https://terrareg-main.gitlab-pr.dockstudios.co.uk",
+                "homepage": "https://gitlab.dockstudios.co.uk/pub/terrareg",
                 "id": 485272500,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-11T19:17:20Z",
+                "open_issues": 20,
                 "owner": "MatthewJohn",
                 "repo": "terrareg",
-                "stars": 347
+                "stars": 347,
+                "topics": [
+                  "python",
+                  "terraform",
+                  "terraform-modules",
+                  "terraform-registry"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -659,12 +1067,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Simple Terraform Provider and Module Registry",
+                "homepage": "https://boring-registry.github.io/boring-registry/",
                 "id": 315339738,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T22:34:15Z",
+                "open_issues": 27,
                 "owner": "boring-registry",
                 "repo": "boring-registry",
-                "stars": 291
+                "stars": 291,
+                "topics": [
+                  "aws",
+                  "azure",
+                  "gcs",
+                  "minio",
+                  "registry",
+                  "s3",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -675,12 +1096,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Private Terraform Registry",
+                "homepage": "https://pascal.euhus.dev/tapir/",
                 "id": 569890667,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T14:56:30Z",
+                "open_issues": 33,
                 "owner": "PacoVK",
                 "repo": "tapir",
-                "stars": 239
+                "stars": 239,
+                "topics": [
+                  "cloud",
+                  "hacktoberfest",
+                  "hashicorp",
+                  "hashicorp-terraform",
+                  "infrastructure-as-code",
+                  "registry",
+                  "terraform",
+                  "terraform-modules",
+                  "terraform-provider"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -691,12 +1127,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A private Terraform registry with modular store backends.",
+                "homepage": null,
                 "id": 484878844,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T11:05:08Z",
+                "open_issues": 19,
                 "owner": "nrkno",
                 "repo": "terraform-registry",
-                "stars": 118
+                "stars": 118,
+                "topics": [
+                  "plattform",
+                  "terraform",
+                  "terraform-registry",
+                  "utvikleropplevelse"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -707,12 +1153,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source terraform provider registry ",
+                "homepage": null,
                 "id": 424593386,
                 "language": "Rust",
+                "license": "ISC",
                 "last_commit": "2024-08-13T11:56:13Z",
+                "open_issues": 0,
                 "owner": "veepee-oss",
                 "repo": "terustry",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -723,12 +1174,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Available Terraform Provider network mirroring service.",
+                "homepage": null,
                 "id": 735817312,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-20T00:57:10Z",
+                "open_issues": 5,
                 "owner": "seal-io",
                 "repo": "hermitcrab",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "mirroring",
+                  "opentofu",
+                  "provider",
+                  "registry",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -739,12 +1201,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Private Terraform Registry Manager",
+                "homepage": "https://devoteamgcloud.github.io/petra/",
                 "id": 459742187,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-06T20:17:34Z",
+                "open_issues": 10,
                 "owner": "devoteamgcloud",
                 "repo": "petra",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "go",
+                  "google-cloud-platform",
+                  "google-cloud-storage",
+                  "private-registry",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -755,12 +1228,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal private module registry for Terraform and OpenTofu",
+                "homepage": null,
                 "id": 570339702,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-01-30T15:51:47Z",
+                "open_issues": 7,
                 "owner": "haoliangyu",
                 "repo": "terrac",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "azure",
+                  "cli",
+                  "gcp",
+                  "module",
+                  "opentofu",
+                  "private-registry",
+                  "s3",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -771,12 +1258,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TUI for OpenTofu/Terraform provider registry",
+                "homepage": "https://pypi.org/project/tofuref/",
                 "id": 976023997,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-23T23:01:46Z",
+                "open_issues": 2,
                 "owner": "djetelina",
                 "repo": "tofuref",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "documentation",
+                  "opentofu",
+                  "terminal",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             }
@@ -794,12 +1291,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources",
+                "homepage": "https://terratag.io",
                 "id": 232134221,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2026-07-03T11:21:09Z",
+                "open_issues": 7,
                 "owner": "env0",
                 "repo": "terratag",
-                "stars": 1055
+                "stars": 1055,
+                "topics": [
+                  "aws",
+                  "azure",
+                  "cloud",
+                  "cost",
+                  "devops",
+                  "env0",
+                  "gcp",
+                  "hashicorp-terraform",
+                  "hcl",
+                  "iac",
+                  "infrastructure-as-code",
+                  "tagging",
+                  "tags",
+                  "terraform",
+                  "terratag"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -810,12 +1328,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Update version constraints in your Terraform / OpenTofu configurations",
+                "homepage": null,
                 "id": 201781630,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-15T07:42:43Z",
+                "open_issues": 15,
                 "owner": "minamijoyo",
                 "repo": "tfupdate",
-                "stars": 657
+                "stars": 657,
+                "topics": [
+                  "go",
+                  "hcl",
+                  "opentofu",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -826,12 +1354,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenTofu Language Server",
+                "homepage": "https://opentofu.org",
                 "id": 974892247,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2026-07-08T11:18:23Z",
+                "open_issues": 13,
                 "owner": "opentofu",
                 "repo": "tofu-ls",
-                "stars": 184
+                "stars": 184,
+                "topics": [
+                  "tofu-ls"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             },
@@ -842,12 +1377,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenTofu support for Zed",
+                "homepage": null,
                 "id": 1009345769,
                 "language": "Tree-sitter Query",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-27T01:39:04Z",
+                "open_issues": 3,
                 "owner": "ashpool37",
                 "repo": "zed-extension-opentofu",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "tofu-ls",
+                  "zed-extension"
+                ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
             }
@@ -861,15 +1404,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:09:03.378Z",
+    "last_updated": "2026-08-29T04:50:35.011Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of OpenTofu tools, resources, and related projects.",
+      "homepage": "https://awesome-opentofu.com",
       "id": 684048748,
       "language": "SCSS",
+      "license": "CC0-1.0",
       "last_commit": "2026-08-03T06:32:52Z",
+      "open_issues": 6,
       "owner": "virtualroot",
       "repo": "awesome-opentofu",
-      "stars": 206
+      "stars": 206,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "devops",
+        "infrastructure-as-code",
+        "list",
+        "opentf",
+        "opentofu",
+        "tofu"
+      ]
     },
     "original_repository_sha": "1c7694cf2f5bbf92e39bb5796756d1691c0b1124",
     "enhanced_repository": "enhansome/enhansome-opentofu",

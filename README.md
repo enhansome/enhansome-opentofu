@@ -79,10 +79,10 @@
 
 * [Terragrunt](https://github.com/gruntwork-io/terragrunt) ⭐ 9,809 | 🐛 216 | 🌐 Go | 📅 2026-08-28 - Keep your configurations DRY, work with multiple modules, and manage remote state.
 * [Terramate](https://github.com/terramate-io/terramate) ⭐ 3,620 | 🐛 103 | 🌐 Go | 📅 2026-08-27 - Automation, orchestration, and code generation for OpenTofu, Terraform, Kubernetes, and others.
-* [Atmos](https://github.com/cloudposse/atmos) ⭐ 1,362 | 🐛 299 | 🌐 Go | 📅 2026-08-29 - Orchestration tool that keeps environment configuration DRY.
+* [Atmos](https://github.com/cloudposse/atmos) ⭐ 1,362 | 🐛 300 | 🌐 Go | 📅 2026-08-29 - Orchestration tool that keeps environment configuration DRY.
 * [pug](https://github.com/leg100/pug) ⭐ 695 | 🐛 21 | 🌐 Go | 📅 2026-01-02 - A terminal user interface for power users.
 * [tfwrapper](https://github.com/claranet/tfwrapper) ⭐ 155 | 🐛 9 | 🌐 Python | 📅 2026-08-21 - Python wrapper that simplifies OpenTofu usage and enforces best practices.
-* [tf](https://github.com/dex4er/tf) ⭐ 88 | 🐛 13 | 🌐 Go | 📅 2026-08-28 - Less verbose and more friendly command outputs.
+* [tf](https://github.com/dex4er/tf) ⭐ 88 | 🐛 13 | 🌐 Go | 📅 2026-08-29 - Less verbose and more friendly command outputs.
 * [easy\_infra](https://github.com/SeisoLLC/easy_infra) ⭐ 78 | 🐛 6 | 🌐 Python | 📅 2026-08-27 - Docker container to simplify and secure the use of infrastructure as code.
 * [tfam](https://github.com/Ant0wan/tfam) ⭐ 25 | 🐛 0 | 🌐 Rust | 📅 2025-03-06 - Rust-powered wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.
 * [tfexe](https://github.com/Ant0wan/tfexe) ⭐ 4 | 🐛 0 | 🌐 Shell | 📅 2023-11-03 - Rust-powered wrapper for seamless execution of tfswitch and Terraform/OpenTofu with version control.
