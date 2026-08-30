@@ -19,7 +19,7 @@
             "open_issues": 322,
             "owner": "opentofu",
             "repo": "opentofu",
-            "stars": 29970,
+            "stars": 29980,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:09.732Z"
@@ -40,7 +40,7 @@
             "open_issues": 322,
             "owner": "opentofu",
             "repo": "opentofu",
-            "stars": 29970,
+            "stars": 29980,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:09.732Z"
@@ -57,8 +57,8 @@
             "id": 716710248,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T23:01:44Z",
-            "open_issues": 110,
+            "last_commit": "2026-08-30T23:20:33Z",
+            "open_issues": 114,
             "owner": "opentofu",
             "repo": "registry",
             "stars": 407,
@@ -173,7 +173,7 @@
                 "open_issues": 45,
                 "owner": "tofuutils",
                 "repo": "tenv",
-                "stars": 1430,
+                "stars": 1431,
                 "topics": [
                   "go",
                   "hacktoberfest",
@@ -299,7 +299,7 @@
                 "open_issues": 216,
                 "owner": "gruntwork-io",
                 "repo": "terragrunt",
-                "stars": 9809,
+                "stars": 9811,
                 "topics": [
                   "aws",
                   "cli",
@@ -344,8 +344,8 @@
                 "id": 292427680,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T22:11:59Z",
-                "open_issues": 300,
+                "last_commit": "2026-08-30T20:48:16Z",
+                "open_issues": 298,
                 "owner": "cloudposse",
                 "repo": "atmos",
                 "stars": 1363,
@@ -380,7 +380,7 @@
                 "open_issues": 21,
                 "owner": "leg100",
                 "repo": "pug",
-                "stars": 695,
+                "stars": 696,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
@@ -397,7 +397,7 @@
                 "id": 107096882,
                 "language": "Python",
                 "license": "MPL-2.0",
-                "last_commit": "2026-08-21T20:15:41Z",
+                "last_commit": "2026-08-30T09:54:23Z",
                 "open_issues": 9,
                 "owner": "claranet",
                 "repo": "tfwrapper",
@@ -423,7 +423,7 @@
                 "id": 527537343,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-29T04:42:13Z",
+                "last_commit": "2026-08-30T04:42:30Z",
                 "open_issues": 13,
                 "owner": "dex4er",
                 "repo": "tf",
@@ -544,7 +544,7 @@
                 "open_issues": 154,
                 "owner": "flux-iac",
                 "repo": "tofu-controller",
-                "stars": 1686,
+                "stars": 1687,
                 "topics": [
                   "flux",
                   "fluxcd",
@@ -646,8 +646,8 @@
                 "id": 744203551,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-08-02T02:47:15Z",
-                "open_issues": 4,
+                "last_commit": "2026-08-30T03:59:12Z",
+                "open_issues": 3,
                 "owner": "tofuutils",
                 "repo": "pre-commit-opentofu",
                 "stars": 100,
@@ -707,7 +707,7 @@
                 "open_issues": 0,
                 "owner": "65156",
                 "repo": "tofUI",
-                "stars": 4,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
@@ -893,7 +893,7 @@
                 "language": "OCaml",
                 "license": "MPL-2.0",
                 "last_commit": "2026-08-29T13:15:48Z",
-                "open_issues": 107,
+                "open_issues": 108,
                 "owner": "stategraph",
                 "repo": "stategraph",
                 "stars": 1273,
@@ -1019,7 +1019,7 @@
                 "language": "Go",
                 "license": "MPL-2.0",
                 "last_commit": "2026-08-29T16:31:24Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "terralist",
                 "repo": "terralist",
                 "stars": 516,
@@ -1072,7 +1072,7 @@
                 "id": 315339738,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-29T20:54:25Z",
+                "last_commit": "2026-08-30T14:42:14Z",
                 "open_issues": 27,
                 "owner": "boring-registry",
                 "repo": "boring-registry",
@@ -1404,7 +1404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T23:15:39.477Z",
+    "last_updated": "2026-08-30T23:27:15.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of OpenTofu tools, resources, and related projects.",
