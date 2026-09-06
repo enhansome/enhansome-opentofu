@@ -19,7 +19,7 @@
             "open_issues": 315,
             "owner": "opentofu",
             "repo": "opentofu",
-            "stars": 30089,
+            "stars": 30104,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:09.732Z"
@@ -40,7 +40,7 @@
             "open_issues": 315,
             "owner": "opentofu",
             "repo": "opentofu",
-            "stars": 30089,
+            "stars": 30104,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:09.732Z"
@@ -57,11 +57,11 @@
             "id": 716710248,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T22:41:32Z",
-            "open_issues": 59,
+            "last_commit": "2026-09-06T21:57:27Z",
+            "open_issues": 61,
             "owner": "opentofu",
             "repo": "registry",
-            "stars": 407,
+            "stars": 408,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:09.732Z"
@@ -132,7 +132,7 @@
                 "open_issues": 16,
                 "owner": "alexellis",
                 "repo": "arkade",
-                "stars": 4612,
+                "stars": 4613,
                 "topics": [
                   "apps",
                   "arkade",
@@ -173,7 +173,7 @@
                 "open_issues": 45,
                 "owner": "tofuutils",
                 "repo": "tenv",
-                "stars": 1432,
+                "stars": 1433,
                 "topics": [
                   "go",
                   "hacktoberfest",
@@ -239,7 +239,7 @@
                 "id": 700384059,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-08-28T19:59:57Z",
+                "last_commit": "2026-09-06T16:30:27Z",
                 "open_issues": 4,
                 "owner": "virtualroot",
                 "repo": "asdf-opentofu",
@@ -296,7 +296,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-04T16:47:36Z",
-                "open_issues": 229,
+                "open_issues": 231,
                 "owner": "gruntwork-io",
                 "repo": "terragrunt",
                 "stars": 9818,
@@ -344,8 +344,8 @@
                 "id": 292427680,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T21:25:47Z",
-                "open_issues": 288,
+                "last_commit": "2026-09-06T22:32:41Z",
+                "open_issues": 290,
                 "owner": "cloudposse",
                 "repo": "atmos",
                 "stars": 1372,
@@ -423,7 +423,7 @@
                 "id": 527537343,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-05T21:56:35Z",
+                "last_commit": "2026-09-06T04:42:25Z",
                 "open_issues": 13,
                 "owner": "dex4er",
                 "repo": "tf",
@@ -598,7 +598,7 @@
                 "open_issues": 17,
                 "owner": "OP5dev",
                 "repo": "TF-via-PR",
-                "stars": 338,
+                "stars": 337,
                 "topics": [
                   "automation",
                   "aws",
@@ -927,7 +927,7 @@
                 "id": 349578094,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T17:44:10Z",
+                "last_commit": "2026-09-06T22:01:46Z",
                 "open_issues": 116,
                 "owner": "terrakube-io",
                 "repo": "terrakube",
@@ -1296,8 +1296,8 @@
                 "id": 232134221,
                 "language": "Go",
                 "license": "MPL-2.0",
-                "last_commit": "2026-07-03T11:21:09Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-06T13:25:27Z",
+                "open_issues": 3,
                 "owner": "env0",
                 "repo": "terratag",
                 "stars": 1055,
@@ -1404,7 +1404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T22:51:13.071Z",
+    "last_updated": "2026-09-06T22:52:33.570Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of OpenTofu tools, resources, and related projects.",
