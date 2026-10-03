@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "OpenTofu repository",
-          "description": "🎉",
+          "description": "opentofu/opentofu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Weekly updates",
-          "description": null,
+          "description": "opentofu/opentofu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "Registry",
-          "description": null,
+          "description": "opentofu/registry",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -57,8 +57,8 @@
             "id": 716710248,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T00:03:39Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-03T04:32:57Z",
+            "open_issues": 15,
             "owner": "opentofu",
             "repo": "registry",
             "stars": 410,
@@ -69,7 +69,7 @@
         {
           "node_type": "item",
           "title": "Registry MCP Server",
-          "description": null,
+          "description": "opentofu/opentofu-mcp-server",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -90,7 +90,7 @@
         {
           "node_type": "item",
           "title": "Technical Steering Committee updates",
-          "description": null,
+          "description": "opentofu/org",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -299,7 +299,7 @@
                 "open_issues": 221,
                 "owner": "gruntwork-io",
                 "repo": "terragrunt",
-                "stars": 9866,
+                "stars": 9867,
                 "topics": [
                   "aws",
                   "cli",
@@ -344,7 +344,7 @@
                 "id": 292427680,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T00:19:37Z",
+                "last_commit": "2026-10-03T04:16:47Z",
                 "open_issues": 295,
                 "owner": "cloudposse",
                 "repo": "atmos",
@@ -423,7 +423,7 @@
                 "id": 527537343,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-02T18:40:59Z",
+                "last_commit": "2026-10-03T04:48:08Z",
                 "open_issues": 15,
                 "owner": "dex4er",
                 "repo": "tf",
@@ -928,7 +928,7 @@
                 "open_issues": 112,
                 "owner": "stategraph",
                 "repo": "stategraph",
-                "stars": 1287,
+                "stars": 1289,
                 "topics": [
                   "automation",
                   "cloud-management",
@@ -960,7 +960,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T23:11:54Z",
-                "open_issues": 136,
+                "open_issues": 137,
                 "owner": "terrakube-io",
                 "repo": "terrakube",
                 "stars": 963,
@@ -1050,8 +1050,8 @@
                 "id": 443985581,
                 "language": "Go",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-30T16:08:14Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-03T01:00:44Z",
+                "open_issues": 13,
                 "owner": "terralist",
                 "repo": "terralist",
                 "stars": 521,
@@ -1478,7 +1478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:26:34.257Z",
+    "last_updated": "2026-10-03T05:00:56.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of OpenTofu tools, resources, and related projects.",
