@@ -15,11 +15,11 @@
             "id": 679421146,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-06T18:01:25Z",
-            "open_issues": 335,
+            "last_commit": "2026-10-07T22:58:55Z",
+            "open_issues": 333,
             "owner": "opentofu",
             "repo": "opentofu",
-            "stars": 30404,
+            "stars": 30415,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:09.732Z"
@@ -36,11 +36,11 @@
             "id": 679421146,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-06T18:01:25Z",
-            "open_issues": 335,
+            "last_commit": "2026-10-07T22:58:55Z",
+            "open_issues": 333,
             "owner": "opentofu",
             "repo": "opentofu",
-            "stars": 30404,
+            "stars": 30415,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:09.732Z"
@@ -57,8 +57,8 @@
             "id": 716710248,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T23:57:00Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-08T00:04:32Z",
+            "open_issues": 18,
             "owner": "opentofu",
             "repo": "registry",
             "stars": 410,
@@ -128,7 +128,7 @@
                 "id": 243213207,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-06T10:23:27Z",
+                "last_commit": "2026-10-07T17:25:11Z",
                 "open_issues": 13,
                 "owner": "alexellis",
                 "repo": "arkade",
@@ -296,8 +296,8 @@
                 "id": 59522149,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-06T19:59:17Z",
-                "open_issues": 225,
+                "last_commit": "2026-10-07T18:57:33Z",
+                "open_issues": 226,
                 "owner": "gruntwork-io",
                 "repo": "terragrunt",
                 "stars": 9872,
@@ -345,8 +345,8 @@
                 "id": 292427680,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T00:04:10Z",
-                "open_issues": 306,
+                "last_commit": "2026-10-08T00:43:52Z",
+                "open_issues": 312,
                 "owner": "cloudposse",
                 "repo": "atmos",
                 "stars": 1396,
@@ -398,7 +398,7 @@
                 "id": 107096882,
                 "language": "Python",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-06T01:24:34Z",
+                "last_commit": "2026-10-07T23:34:37Z",
                 "open_issues": 8,
                 "owner": "claranet",
                 "repo": "tfwrapper",
@@ -424,7 +424,7 @@
                 "id": 527537343,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-06T05:03:29Z",
+                "last_commit": "2026-10-07T18:13:03Z",
                 "open_issues": 15,
                 "owner": "dex4er",
                 "repo": "tf",
@@ -531,6 +531,37 @@
           "children": [
             {
               "node_type": "item",
+              "title": "pre-commit-terraform",
+              "description": "Collection of pre-commit git hooks for validating, formatting, and documenting Terraform and OpenTofu code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "pre-commit git hooks to take care of Terraform configurations 🇺🇦",
+                "homepage": null,
+                "id": 69382485,
+                "language": "Shell",
+                "license": "MIT",
+                "last_commit": "2026-10-07T06:37:22Z",
+                "open_issues": 32,
+                "owner": "antonbabenko",
+                "repo": "pre-commit-terraform",
+                "stars": 3785,
+                "topics": [
+                  "automation",
+                  "code-style",
+                  "git-hooks",
+                  "hacktoberfest",
+                  "hooks",
+                  "pre-commit",
+                  "terraform",
+                  "terraform-docs",
+                  "terragrunt"
+                ]
+              },
+              "first_seen": "2026-10-08T00:57:06.360Z"
+            },
+            {
+              "node_type": "item",
               "title": "tofu-controller",
               "description": "GitOps OpenTofu and Terraform controller for Flux.",
               "children": [],
@@ -569,7 +600,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-10T17:56:06Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "dflook",
                 "repo": "terraform-github-actions",
                 "stars": 992,
@@ -677,8 +708,8 @@
                 "id": 1105172804,
                 "language": "Ruby",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-06T20:55:52Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-07T09:27:34Z",
+                "open_issues": 4,
                 "owner": "drifthoundhq",
                 "repo": "drifthound",
                 "stars": 74,
@@ -691,6 +722,36 @@
                 ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
+            },
+            {
+              "node_type": "item",
+              "title": "c3x",
+              "description": "Cost estimates for OpenTofu code, including files and provider , posted as a pull request comment.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open source cloud cost estimation for Terraform, Terragrunt, and CloudFormation",
+                "homepage": "https://c3x.dev",
+                "id": 1219267980,
+                "language": "Go",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-29T20:43:54Z",
+                "open_issues": 2,
+                "owner": "c3xdev",
+                "repo": "c3x",
+                "stars": 33,
+                "topics": [
+                  "aws",
+                  "azure",
+                  "cloud-costs",
+                  "cost-estimation",
+                  "devops",
+                  "finops",
+                  "gcp",
+                  "terraform"
+                ]
+              },
+              "first_seen": "2026-10-08T00:57:06.360Z"
             },
             {
               "node_type": "item",
@@ -754,6 +815,41 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Checkov",
+              "description": "Static analysis tool that scans Terraform and OpenTofu templates for security and compliance misconfigurations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.",
+                "homepage": "https://www.checkov.io/",
+                "id": 224386599,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-07T23:03:47Z",
+                "open_issues": 190,
+                "owner": "bridgecrewio",
+                "repo": "checkov",
+                "stars": 9059,
+                "topics": [
+                  "aws",
+                  "aws-security",
+                  "azure",
+                  "cloudformation",
+                  "compliance",
+                  "devops",
+                  "gcp",
+                  "hacktoberfest",
+                  "infrastructure-as-code",
+                  "kubernetes",
+                  "scans",
+                  "static-analysis",
+                  "terraform"
+                ]
+              },
+              "first_seen": "2026-10-08T00:57:06.360Z"
+            },
+            {
+              "node_type": "item",
               "title": "Terratest",
               "description": "Go library that makes writing automated tests for your infrastructure code easier.",
               "children": [],
@@ -765,7 +861,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-06T20:57:31Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "gruntwork-io",
                 "repo": "terratest",
                 "stars": 7971,
@@ -781,6 +877,40 @@
                 ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
+            },
+            {
+              "node_type": "item",
+              "title": "KICS",
+              "description": "Open-source static analysis tool that finds security vulnerabilities and misconfigurations in IaC, including OpenTofu.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.",
+                "homepage": "https://kics.io",
+                "id": 278200746,
+                "language": "Open Policy Agent",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-07T16:00:22Z",
+                "open_issues": 311,
+                "owner": "Checkmarx",
+                "repo": "kics",
+                "stars": 2717,
+                "topics": [
+                  "appsec",
+                  "cloudnative",
+                  "devsecops",
+                  "golang",
+                  "hacktoberfest",
+                  "iac",
+                  "infrastructure-as-code",
+                  "open-policy-agent",
+                  "security",
+                  "security-tools",
+                  "vulnerability-detection",
+                  "vulnerability-scanners"
+                ]
+              },
+              "first_seen": "2026-10-08T00:57:06.360Z"
             }
           ],
           "description": null,
@@ -789,6 +919,34 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "terraform-tui",
+              "description": "Terminal UI for browsing, applying, and managing Terraform/OpenTofu state and plans interactively.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Terraform textual UI",
+                "homepage": "https://pypi.org/project/tftui/",
+                "id": 668619535,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-07T20:26:32Z",
+                "open_issues": 10,
+                "owner": "idoavrah",
+                "repo": "terraform-tui",
+                "stars": 1298,
+                "topics": [
+                  "devops",
+                  "iac",
+                  "productivity",
+                  "sre",
+                  "terraform",
+                  "tui"
+                ]
+              },
+              "first_seen": "2026-10-08T00:57:06.360Z"
+            },
             {
               "node_type": "item",
               "title": "tfmigrate",
@@ -815,6 +973,35 @@
                 ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
+            },
+            {
+              "node_type": "item",
+              "title": "tfautomv",
+              "description": "CLI that automatically generates blocks and state-move commands for refactoring Terraform/OpenTofu configurations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Generate Terraform moved blocks automatically for painless refactoring",
+                "homepage": "https://github.com/busser/tfautomv",
+                "id": 482225540,
+                "language": "Go",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-06T15:49:45Z",
+                "open_issues": 18,
+                "owner": "busser",
+                "repo": "tfautomv",
+                "stars": 898,
+                "topics": [
+                  "block",
+                  "golang",
+                  "hacktoberfest",
+                  "move",
+                  "refactor",
+                  "refactoring",
+                  "terraform"
+                ]
+              },
+              "first_seen": "2026-10-08T00:57:06.360Z"
             },
             {
               "node_type": "item",
@@ -894,11 +1081,11 @@
                 "id": 605995490,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-06T19:27:39Z",
-                "open_issues": 495,
+                "last_commit": "2026-10-07T13:28:35Z",
+                "open_issues": 497,
                 "owner": "diggerhq",
                 "repo": "digger",
-                "stars": 5046,
+                "stars": 5047,
                 "topics": [
                   "github-actions",
                   "hacktoberfest",
@@ -925,11 +1112,11 @@
                 "id": 866997913,
                 "language": "OCaml",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-06T13:03:00Z",
-                "open_issues": 111,
+                "last_commit": "2026-10-07T20:37:56Z",
+                "open_issues": 112,
                 "owner": "stategraph",
                 "repo": "stategraph",
-                "stars": 1288,
+                "stars": 1291,
                 "topics": [
                   "automation",
                   "cloud-management",
@@ -960,8 +1147,8 @@
                 "id": 349578094,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T22:18:55Z",
-                "open_issues": 130,
+                "last_commit": "2026-10-07T17:10:59Z",
+                "open_issues": 129,
                 "owner": "terrakube-io",
                 "repo": "terrakube",
                 "stars": 965,
@@ -1105,7 +1292,7 @@
                 "id": 315339738,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-01T22:01:23Z",
+                "last_commit": "2026-10-07T03:03:46Z",
                 "open_issues": 29,
                 "owner": "boring-registry",
                 "repo": "boring-registry",
@@ -1319,6 +1506,48 @@
           "children": [
             {
               "node_type": "item",
+              "title": "TerraVision",
+              "description": "Generate cloud architecture diagrams with official AWS, Azure and GCP icons from OpenTofu or Terraform code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Cloud architecture diagrams in both directions: AI prompt or JSON to diagram, diagram to Terraform via MCP server, and Terraform to diagram via CLI or CI/CD. Using Official AWS, Azure and GCP icons.",
+                "homepage": "https://patrickchugh.github.io/terravision/",
+                "id": 469272572,
+                "language": "Python",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-10-06T20:54:54Z",
+                "open_issues": 4,
+                "owner": "patrickchugh",
+                "repo": "terravision",
+                "stars": 1646,
+                "topics": [
+                  "agent-skill",
+                  "architecture-diagram",
+                  "architecture-diagram-generator",
+                  "aws",
+                  "azure",
+                  "chatgpt",
+                  "claude",
+                  "cloud-architecture",
+                  "cloud-architecture-diagram",
+                  "codex",
+                  "diagrams-as-code",
+                  "docs-as-code",
+                  "drawio",
+                  "gcp",
+                  "infrastructure-as-code",
+                  "llm-tools",
+                  "mcp",
+                  "mcp-server",
+                  "terraform",
+                  "text-to-diagram"
+                ]
+              },
+              "first_seen": "2026-10-08T00:57:06.360Z"
+            },
+            {
+              "node_type": "item",
               "title": "terratag",
               "description": "CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.",
               "children": [],
@@ -1392,8 +1621,8 @@
                 "id": 974892247,
                 "language": "Go",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-05T11:35:19Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-07T11:54:19Z",
+                "open_issues": 15,
                 "owner": "opentofu",
                 "repo": "tofu-ls",
                 "stars": 188,
@@ -1439,7 +1668,7 @@
                 "id": 1281028276,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-05T06:05:43Z",
+                "last_commit": "2026-10-07T08:30:13Z",
                 "open_issues": 1,
                 "owner": "bare-devcontainer",
                 "repo": "templates",
@@ -1479,7 +1708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T00:38:44.827Z",
+    "last_updated": "2026-10-08T00:57:06.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of OpenTofu tools, resources, and related projects.",
@@ -1487,8 +1716,8 @@
       "id": 684048748,
       "language": "SCSS",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-27T20:40:02Z",
-      "open_issues": 10,
+      "last_commit": "2026-10-07T13:32:49Z",
+      "open_issues": 5,
       "owner": "virtualroot",
       "repo": "awesome-opentofu",
       "stars": 210,
@@ -1503,7 +1732,7 @@
         "tofu"
       ]
     },
-    "original_repository_sha": "3bf29c1e2491a62367ffe3354864c77f310d35da",
+    "original_repository_sha": "886d490aa40f4f7eea0b0fc501b3f623ffcb323f",
     "enhanced_repository": "enhansome/enhansome-opentofu",
     "enhanced_repository_description": null,
     "title": "Awesome OpenTofu with stars"
