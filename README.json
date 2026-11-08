@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "MPL-2.0",
             "last_commit": "2026-11-06T22:13:24Z",
-            "open_issues": 370,
+            "open_issues": 371,
             "owner": "opentofu",
             "repo": "opentofu",
-            "stars": 30742,
+            "stars": 30750,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:09.732Z"
@@ -37,10 +37,10 @@
             "language": "Go",
             "license": "MPL-2.0",
             "last_commit": "2026-11-06T22:13:24Z",
-            "open_issues": 370,
+            "open_issues": 371,
             "owner": "opentofu",
             "repo": "opentofu",
-            "stars": 30742,
+            "stars": 30750,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:09.732Z"
@@ -57,8 +57,8 @@
             "id": 716710248,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T00:48:39Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-07T23:58:22Z",
+            "open_issues": 26,
             "owner": "opentofu",
             "repo": "registry",
             "stars": 411,
@@ -82,7 +82,7 @@
             "open_issues": 2,
             "owner": "opentofu",
             "repo": "opentofu-mcp-server",
-            "stars": 115,
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:09.732Z"
@@ -173,7 +173,7 @@
                 "open_issues": 55,
                 "owner": "tofuutils",
                 "repo": "tenv",
-                "stars": 1464,
+                "stars": 1465,
                 "topics": [
                   "go",
                   "hacktoberfest",
@@ -244,7 +244,7 @@
                 "open_issues": 2,
                 "owner": "virtualroot",
                 "repo": "asdf-opentofu",
-                "stars": 31,
+                "stars": 32,
                 "topics": [
                   "asdf-plugin",
                   "command-line",
@@ -296,11 +296,11 @@
                 "id": 59522149,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-06T21:53:37Z",
-                "open_issues": 211,
+                "last_commit": "2026-11-07T20:24:34Z",
+                "open_issues": 210,
                 "owner": "gruntwork-io",
                 "repo": "terragrunt",
-                "stars": 9915,
+                "stars": 9916,
                 "topics": [
                   "aws",
                   "cli",
@@ -328,7 +328,7 @@
                 "open_issues": 102,
                 "owner": "terramate-io",
                 "repo": "terramate",
-                "stars": 3646,
+                "stars": 3648,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
@@ -345,11 +345,11 @@
                 "id": 292427680,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T00:37:49Z",
-                "open_issues": 265,
+                "last_commit": "2026-11-08T00:11:05Z",
+                "open_issues": 264,
                 "owner": "cloudposse",
                 "repo": "atmos",
-                "stars": 1413,
+                "stars": 1416,
                 "topics": [
                   "automation",
                   "cli",
@@ -398,7 +398,7 @@
                 "id": 107096882,
                 "language": "Python",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-03T10:44:16Z",
+                "last_commit": "2026-11-07T13:41:36Z",
                 "open_issues": 8,
                 "owner": "claranet",
                 "repo": "tfwrapper",
@@ -424,7 +424,7 @@
                 "id": 527537343,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-06T13:59:31Z",
+                "last_commit": "2026-11-07T18:27:36Z",
                 "open_issues": 16,
                 "owner": "dex4er",
                 "repo": "tf",
@@ -576,7 +576,7 @@
                 "open_issues": 158,
                 "owner": "flux-iac",
                 "repo": "tofu-controller",
-                "stars": 1722,
+                "stars": 1723,
                 "topics": [
                   "flux",
                   "fluxcd",
@@ -603,7 +603,7 @@
                 "open_issues": 35,
                 "owner": "dflook",
                 "repo": "terraform-github-actions",
-                "stars": 994,
+                "stars": 995,
                 "topics": [
                   "github-action",
                   "github-actions",
@@ -769,7 +769,7 @@
                 "open_issues": 0,
                 "owner": "65156",
                 "repo": "tofUI",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
@@ -805,6 +805,39 @@
                 ]
               },
               "first_seen": "2026-09-08T23:21:23.437Z"
+            },
+            {
+              "node_type": "item",
+              "title": "tofu-garnish",
+              "description": "GitHub Action to publish OpenTofu outputs as a static GitHub Pages site.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": ":herb: Tofu outputs, plated. A GitHub Action.",
+                "homepage": "https://lowlydba.github.io/tofu-garnish/",
+                "id": 1295412216,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-07T04:07:52Z",
+                "open_issues": 0,
+                "owner": "lowlydba",
+                "repo": "tofu-garnish",
+                "stars": 1,
+                "topics": [
+                  "documentation-generator",
+                  "gha",
+                  "github-action",
+                  "iac",
+                  "infra-as-code",
+                  "infra-as-documentation",
+                  "terraform",
+                  "terraform-outputs",
+                  "tofu",
+                  "tofu-outputs",
+                  "zero-dependency"
+                ]
+              },
+              "first_seen": "2026-11-08T00:30:45.660Z"
             }
           ],
           "description": null,
@@ -826,10 +859,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-02T23:02:03Z",
-                "open_issues": 221,
+                "open_issues": 222,
                 "owner": "bridgecrewio",
                 "repo": "checkov",
-                "stars": 9137,
+                "stars": 9141,
                 "topics": [
                   "aws",
                   "aws-security",
@@ -1116,7 +1149,7 @@
                 "open_issues": 115,
                 "owner": "stategraph",
                 "repo": "stategraph",
-                "stars": 1328,
+                "stars": 1327,
                 "topics": [
                   "automation",
                   "cloud-management",
@@ -1147,11 +1180,11 @@
                 "id": 349578094,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T23:24:58Z",
-                "open_issues": 162,
+                "last_commit": "2026-11-07T17:44:37Z",
+                "open_issues": 165,
                 "owner": "terrakube-io",
                 "repo": "terrakube",
-                "stars": 991,
+                "stars": 993,
                 "topics": [
                   "elide",
                   "kubernetes",
@@ -1164,6 +1197,48 @@
                 ]
               },
               "first_seen": "2026-08-28T05:21:09.732Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Kumoss",
+              "description": "Open-source, self-hosted AI assistant that plugs into your existing Git, LLM and identity stack, turning plain-language day-2 requests into plan-validated OpenTofu pull requests with drift reconciled.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Kumoss turns natural-language requests into compliant, plan-validated Terraform/OpenTofu pull requests - with drift correction, policy gates, and human review. Multicloud, bring-your-own LLM.",
+                "homepage": "https://inditextech.github.io/kumoss",
+                "id": 1230709805,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-06T10:34:27Z",
+                "open_issues": 33,
+                "owner": "InditexTech",
+                "repo": "kumoss",
+                "stars": 143,
+                "topics": [
+                  "agentic-ai",
+                  "ai-agents",
+                  "ai-infrastructure",
+                  "aws",
+                  "azure",
+                  "cloud-governance",
+                  "compliance",
+                  "devops",
+                  "devsecops",
+                  "gcp",
+                  "generative-ai",
+                  "iac",
+                  "infrastructure-as-code",
+                  "internal-developer-platform",
+                  "kubernetes",
+                  "llm",
+                  "multicloud",
+                  "opentofu",
+                  "platform-engineering",
+                  "terraform"
+                ]
+              },
+              "first_seen": "2026-11-08T00:30:45.660Z"
             },
             {
               "node_type": "item",
@@ -1277,8 +1352,8 @@
                 "id": 443985581,
                 "language": "Go",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-31T05:25:59Z",
-                "open_issues": 23,
+                "last_commit": "2026-11-07T09:11:48Z",
+                "open_issues": 21,
                 "owner": "terralist",
                 "repo": "terralist",
                 "stars": 525,
@@ -1559,7 +1634,7 @@
                 "open_issues": 21,
                 "owner": "patrickchugh",
                 "repo": "terravision",
-                "stars": 1674,
+                "stars": 1675,
                 "topics": [
                   "agent-skill",
                   "architecture-diagram",
@@ -1747,7 +1822,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T00:52:25.019Z",
+    "last_updated": "2026-11-08T00:30:45.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of OpenTofu tools, resources, and related projects.",
@@ -1755,11 +1830,11 @@
       "id": 684048748,
       "language": "SCSS",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-02T15:32:41Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-07T20:04:27Z",
+      "open_issues": 1,
       "owner": "virtualroot",
       "repo": "awesome-opentofu",
-      "stars": 214,
+      "stars": 215,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1771,7 +1846,7 @@
         "tofu"
       ]
     },
-    "original_repository_sha": "57d9619629eaababcda38ac051d0290fedd3d996",
+    "original_repository_sha": "3ba7c26ae3a1ae33b21d06a0eb5f1fe91f5b6e9b",
     "enhanced_repository": "enhansome/enhansome-opentofu",
     "enhanced_repository_description": null,
     "title": "Awesome OpenTofu with stars"
